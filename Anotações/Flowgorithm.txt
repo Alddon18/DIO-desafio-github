@@ -1,0 +1,3 @@
+# Flowgorithm
+
+   Programa que permite representar graficamente o algoritmo, isto é, a sequência lógica e coerente do fluxo de dados

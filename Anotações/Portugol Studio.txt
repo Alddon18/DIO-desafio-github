@@ -1,0 +1,3 @@
+# Portugol Studio
+
+   Portugol Studio é uma pseudolinguagem que permite ao leitor desenvolver algoritmo estruturados em português de forma simples e intuitiva, independentemente da linguagem de programção. É uma pseudolinguagem que permite ao programador pensar no problemae não no equipamento que irá executar o algoritmo.
